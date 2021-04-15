@@ -123,6 +123,12 @@
         display: none;
     }
 }
+@media (max-width: 425px)
+{
+    .e3xbyqbi:not(#_):not(#_) {
+        padding: 0.25rem;
+    }
+}
 
 
 
