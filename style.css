@@ -773,16 +773,44 @@ section.topic.tfree.d3tapub:not(#_) {
 .kyd29zbt:not(#_):not(#_) {
     display: block;
     overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+    --c:hsla(54.00,100.00%,92.00%,100%);
 }
 .kyd29zbu:not(#_):not(#_) {
     display: block;
     overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+    --c:hsla(25.00,54.00%,88.00%,100%);
 }
-    
+.kyd29zbv:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(252.50,100.00%,90.50%,100%);
+}
+.kyd29zbw:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(138.00,24.00%,89.00%,100%);
+}
+.kyd29zbu:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(25.00,54.00%,88.00%,100%);
+}
+.kyd29zbu:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(25.00,54.00%,88.00%,100%);
+}
+.kyd29zbu:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(25.00,54.00%,88.00%,100%);
+}
 
+section.topic.tjavascript.d3tapub:not(#_) {
+    --bg: hsl(138.5, 23.6%, 89.2%);
+}
 
+/* hover classes */
 .link:hover {color: hsla(248, 100%, 60.4%, 80%);}
 .button:hover,.button.textnav:hover, .dropdown.autoshow:hover .menu,.e3xbyqb_:hover .card .main.e3xbyqb:not(#_),.e3xbyqk_:hover .card .main.e3xbyqk:not(#_)  , .p7g3yfk_ .offer.p7g3yfk:not(#_):hover, .p7g3yfk_ .resume.p7g3yfk:not(#_):hover, .p7g3yfk_ .valentines-offer.p7g3yfk:not(#_):hover , .a5a5ahaf_:not(.was-scrolling) .ref--sheet:hover .ref--more.a5a5ahaf .action:not(#_), .frame .SpaceView .ViewportOverlay .PlayButton:hover, .frame .SpaceView .ViewportOverlay .PlayButton:hover svg, .timeline-controls.timeline-controls .tool.rec:hover::after, .timeline-controls.timeline-controls .tool.rec:not(.active):hover::after, .timeline-controls.timeline-controls .tool.rec:not(.active):hover::before {--t_x:0;--t_y:0;--t_z:0;--t_rotate:0;--t_scale:1;--t_scale-x:1;--t_scale-y:1;--t_skew-x:0;--t_skew-y:0;
     transform: translate3d(var(--t_x),var(--t_y),var(--t_z)) rotate(var(--t_rotate)) skewX(var(--t_skew-x)) skewY(var(--t_skew-y)) scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));  --t_y: 0 !important;}
