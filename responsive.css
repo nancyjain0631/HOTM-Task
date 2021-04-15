@@ -1,0 +1,131 @@
+@media (min-width: 350px){
+    .d3tapubf:not(#_):not(#_) {
+        display: block;
+    }
+}
+@media (min-width: 380px){
+    html .d1 {
+        --u_lh: 54px;
+        line-height: 54px;
+        font-size: 48px;
+    }
+}
+@media (min-width: 400px){
+    section.topic .tiles.d3tapub:not(#_) {
+        margin-bottom: 0rem;
+    }
+}
+@media (min-width: 480px){
+    html .tiles {
+        --cols: 2;
+    }
+}
+
+@media (min-width: 580px){
+    .ref--bragging.d3tapub .grid:not(#_) {
+        grid-auto-flow: column;
+    }
+
+}
+@media (min-width: 640px){
+    section.topic .tiles.d3tapub:not(#_) {
+        --u_tileheight: 110%;
+        --cols: 2;
+    }
+    .pattern {
+        --u_lh: 22px;
+        line-height: 22px;
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 768px){
+    html .d1 {
+        --u_lh: 62px;
+        line-height: 62px;
+        font-size: 56px;
+    }
+    html .d3 {
+        --u_lh: 24px;
+        line-height: 24px;
+        font-size: 24px;
+    }
+    section.topic .tiles.d3tapub:not(#_) {
+        padding: inherit;
+    }
+}
+@media (min-width: 800px){
+    html .tiles {
+        --cols: 3;
+    }
+}
+@media (min-width: 880px){ 
+    .page {
+        --cta-col: calc(max(340px, 33vw));
+    }
+}
+@media (min-width: 1000px){
+    .ref--bragging.d3tapub .peeps:not(#_) {
+        grid-row-end: span 1;
+    }
+    .d3tapubr:not(#_):not(#_) {
+        display: block;
+    }
+    /* section.topic .tiles.d3tapub:not(#_) {
+        width: auto;
+    } */
+    section.topic .tiles.d3tapub:not(#_){
+        --cols: 4;
+    }
+}
+@media (min-width: 1024px){
+    .ref--header.d3tapub:not(#_) {
+        padding-right: 20%;
+    }
+    .ref--header.d3tapub .peep:not(#_) {
+        display: block;
+    }
+    html .d1 {
+        --u_lh: 70px;
+        line-height: 70px;
+        font-size: 70px;
+    }
+    html .d3 {
+        --u_lh: 36px;
+        line-height: 36px;
+        font-size: 36px;
+    }
+    section.topic.d3tapub:not(#_) {
+        padding-right: 3.5rem;
+        padding-left: 3.5rem;
+    }
+    .pattern {
+        --u_lh: 30px;
+        line-height: 30px;
+        font-size: 28px;
+    }
+}
+@media (min-width: 1100px){
+    html .tiles {
+        --cols: 4;
+    }
+}
+@media (min-width: 1280px){
+    html .d1 {
+        --u_lh: 88px;
+        line-height: 88px;
+        font-size: 88px;
+    }
+}
+@media (max-width: 579px)
+{
+    .ref--bragging.d3tapub .peeps:not(#_) {
+        display: none;
+    }
+}
+
+
+
+
+
+
