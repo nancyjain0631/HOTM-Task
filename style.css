@@ -697,6 +697,10 @@ html .shape {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
+section.topic.tbootcamps.d3tapub:not(#_) {
+    --bg:hsl(54.4, 100%, 91.6%);
+}
+
 
 
 /* ---------------------------MEDIA QUERIES----------------------------- */
