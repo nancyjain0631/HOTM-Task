@@ -676,6 +676,27 @@ html .shape {
     overflow: hidden;
     --c: hsla(139.00,25.50%,92.50%,100%);;
 }
+.d3tapubaa:not(#_):not(#_) {
+    width: 25vw;
+    order: 10000;
+}
+.d3tapub_ *.d3tapub:not(#_) {
+    position: relative;
+}
+
+.button.white {
+    background: hsla(0.00,0.00%,100.00%,100%);
+    color: hsl(250, 18%, 19%);
+    --bc: hsl(250, 18%, 19%);
+}
+.button.rounded {
+    border-radius: 9999px;
+    --bc: hsl(250, 18%, 19%);
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
 
 
 /* ---------------------------MEDIA QUERIES----------------------------- */
