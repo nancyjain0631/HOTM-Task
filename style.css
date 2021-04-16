@@ -1084,6 +1084,61 @@ html .d4 {
     font-weight: bolder;
     text-shadow: 3px 1px 0 #fff;
 }
+/* header--------------------------------------------------- */
+.p7g3yfk_.p7g3yfk:not(#_) {
+    --u_hdh: 65px;
+    display: flex;
+    flex-direction: row;
+    position: fixed;
+    top: 0rem;
+    left: 0rem;
+    right: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    z-index: 800;
+    align-content: center;
+    align-items: center;
+    height: calc(var(--u_hdh,1hdh) * 1);
+    font-size: 16px;
+    line-height: 24px;
+    --u_lh: 24px;
+    color: hsl(250, 18%, 19%);
+}
+.mod-sticky-header .p7g3yfk_.p7g3yfk:not(#_)::before {
+    opacity: 0.99;
+}
+
+.p7g3yfk_.p7g3yfk:not(#_)::before {
+    position: absolute;
+    top: 0rem;
+    right: 0rem;
+    bottom: 0rem;
+    left: 0rem;
+    background: hsla(0.00,0.00%,100.00%,95%);
+    pointer-events: none;
+    opacity: 0;
+    box-shadow: 0px 0px 10px hsl(0deg 0% 0% / 10%);
+    content: " ";
+    display: block;
+    transition: all 0.2s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.f7a31tc_.f7a31tc:not(#_) {
+    display: contents;
+    --height: 140px;
+    --width: 300px;
+    --left: 20px;
+    --x: 0;
+    --speed: 0.3s;
+    --height-ease: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+    --width-ease: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+    --u_chdh: 64px;
+    --u_xp: 24px;
+    --u_yp: 24px;
+    z-index: -1;
+    visibility: hidden;
+    transition: visibility 0.3s linear;
+    color: hsl(250, 18%, 19%);
+}
 
 
 
