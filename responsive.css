@@ -44,6 +44,10 @@
         --u_lh: 62px;
         line-height: 62px;
         font-size: 56px;
+    }html .d2 {
+        --u_lh: 36px;
+        line-height: 36px;
+        font-size: 36px;
     }
     html .d3 {
         --u_lh: 24px;
@@ -53,6 +57,34 @@
     section.topic .tiles.d3tapub:not(#_) {
         padding: inherit;
     }
+    .d3tapubai:not(#_):not(#_) {
+        grid-column-gap: 50px;
+        grid-template-columns: 1fr 1fr;
+    }
+    .d3tapubaj:not(#_):not(#_) {
+        margin-left: auto;
+    }
+    .d3tapubak:not(#_):not(#_) {
+        left: 12%;
+    }
+    .d3tapubal:not(#_):not(#_) {
+        margin-right: auto;
+    }
+    .d3tapubam:not(#_):not(#_) {
+        margin-top: 0rem;
+    }
+    .d3tapubap:not(#_):not(#_) {
+        grid-column-gap: 50px;
+        grid-template-columns: 1fr 1fr;
+    }
+    .d3tapubaq:not(#_):not(#_) {
+        margin-left: auto;
+    }
+    .d3tapubau:not(#_):not(#_) {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
 }
 @media (min-width: 800px){
     html .tiles {
@@ -90,6 +122,11 @@
         line-height: 70px;
         font-size: 70px;
     }
+    html .d2 {
+        --u_lh: 48px;
+        line-height: 48px;
+        font-size: 48px;
+    }
     html .d3 {
         --u_lh: 36px;
         line-height: 36px;
@@ -103,6 +140,9 @@
         --u_lh: 30px;
         line-height: 30px;
         font-size: 28px;
+    }
+    .d3tapubau:not(#_):not(#_) {
+        margin-left: 120px;
     }
 }
 @media (min-width: 1100px){

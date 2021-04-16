@@ -836,12 +836,12 @@ section.topic.thtml.d3tapub:not(#_) {
 .kyd29zbff:not(#_):not(#_) {
     display: block;
     overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+    --c:hsla(138.00,24.00%,89.00%,100%);
 }
 .kyd29zbgg:not(#_):not(#_) {
     display: block;
     overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+    --c:hsla(25.00,54.00%,88.00%,100%);
 }
 .kyd29zbhh:not(#_):not(#_) {
     display: block;
@@ -858,21 +858,238 @@ section.topic.thtml.d3tapub:not(#_) {
     overflow: hidden;
     --c:hsla(220.33,100.00%,92.67%,100%);
 }
-.kyd29zbz:not(#_):not(#_) {
-    display: block;
-    overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+.d3tapubv:not(#_):not(#_) {
+    padding-top: 2rem;
+    padding-bottom: 3.5rem;
+    display: flex;
+    flex-direction: column;
 }
-.kyd29zbz:not(#_):not(#_) {
+
+section.topic.tvue.d3tapub:not(#_) {
+    --dark: #4fc08d;
+    --bg: hsl(0, 0%, 96%);
+}
+.kyd29zbkk:not(#_):not(#_) {
     display: block;
     overflow: hidden;
-    --c:hsla(220.33,100.00%,92.67%,100%);
+    --c:hsla(252.50,100.00%,90.50%,100%);
+}
+.kyd29zbll:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(138.00,24.00%,89.00%,100%);
+}
+.kyd29zbmm:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(26.50,53.00%,91.50%,100%);
+}
+.kyd29zbnn:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(252.50,100.00%,90.50%,100%);
 }
 
 
 section.topic.tjavascript.d3tapub:not(#_) {
     --bg: hsl(138.5, 23.6%, 89.2%);
 }
+/* JOIN OUR DISCORD CHAT--------------------------------------------------------- */
+.d3tapubaa:not(#_):not(#_){
+    padding-bottom: 4rem;
+    height: 400px;
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: center;
+    background: hsla(0.00,0.00%,100.00%,100%);
+    width: 100vw;
+}
+.d3tapubab:not(#_):not(#_) {
+    --t_x: 0;
+    --t_y: 0;
+    --t_z: 0;
+    --t_rotate: 0;
+    --t_scale: 1;
+    --t_scale-x: 1;
+    --t_scale-y: 1;
+    --t_skew-x: 0;
+    --t_skew-y: 0;
+    transform: translate3d(var(--t_x),var(--t_y),var(--t_z)) rotate(var(--t_rotate)) skewX(var(--t_skew-x)) skewY(var(--t_skew-y)) scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+    left: 50%;
+    --t_x: -50% !important;
+    bottom: 0rem;
+    height: 90%;
+}
+.d3tapubac:not(#_):not(#_) {
+    --t_x: 0;
+    --t_y: 0;
+    --t_z: 0;
+    --t_rotate: 0;
+    --t_scale: 1;
+    --t_scale-x: 1;
+    --t_scale-y: 1;
+    --t_skew-x: 0;
+    --t_skew-y: 0;
+    transform: translate3d(var(--t_x),var(--t_y),var(--t_z)) rotate(var(--t_rotate)) skewX(var(--t_skew-x)) skewY(var(--t_skew-y)) scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+    left: 50%;
+    --t_x: -50% !important;
+    bottom: 0rem;
+    height: 74%;
+}
+html .d3 {
+    --u_lh: 36px;
+}
+
+.d3tapubae:not(#_):not(#_) {
+    margin: 0.5rem;
+    text-align: center;
+}
+.d3tapubaf:not(#_):not(#_) {
+    color: hsla(145.04,45.82%,50.78%,100%);
+}
+.d3tapubag:not(#_):not(#_) {
+    margin: 0.5rem;
+}
+.d3tapubah:not(#_):not(#_) {
+    --t_x: 0;
+    --t_y: 0;
+    --t_z: 0;
+    --t_rotate: 0;
+    --t_scale: 1;
+    --t_scale-x: 1;
+    --t_scale-y: 1;
+    --t_skew-x: 0;
+    --t_skew-y: 0;
+    transform: translate3d(var(--t_x),var(--t_y),var(--t_z)) rotate(var(--t_rotate)) skewX(var(--t_skew-x)) skewY(var(--t_skew-y)) scaleX(var(--t_scale-x)) scaleY(var(--t_scale-y)) scale(var(--t_scale));
+    left: 50%;
+    --t_x: -50% !important;
+    bottom: 0rem;
+    position: absolute;
+}
+.d3tapubai:not(#_):not(#_) {
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: flex-start;
+    background: hsl(28, 52%, 95%);
+    width: 100vw;
+    grid-template-columns: 1fr;
+    grid-column-gap: 0;
+}
+.d3tapubaj:not(#_):not(#_) {
+    margin-left: initial;
+    max-width: 600px;
+}
+.d3tapubak:not(#_):not(#_) {
+    width: 85%;
+    left: 7.5%;
+    margin: 0rem auto;
+}
+.polaroid {
+    border-radius: 10px;
+    border: 4px solid hsla(0.00,0.00%,100.00%,100%);
+}
+.d3tapubal:not(#_):not(#_) {
+    width: 80%;
+    margin-right: initial;
+    max-width: 600px;
+}
+.d3tapubam:not(#_):not(#_) {
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+}
+html .d2 {
+    font-weight: 600;
+    color: hsl(250, 18%, 19%);
+    font-size: 24px;
+    line-height: 26px;
+    --u_lh: 26px;
+}
+.d3tapuban:not(#_):not(#_) {
+    top: 45%;
+    left: 45%;
+    width: 45%;
+    max-width: 300px;
+}
+html .d4 {
+    font-weight: 400;
+    color: hsl(250, 18%, 19%);
+    font-size: 20px;
+    line-height: 28px;
+    --u_lh: 28px;
+}
+.d3tapubao:not(#_):not(#_) {
+    margin-top: 1.25rem;
+}
+.d3tapubap:not(#_):not(#_) {
+    padding-top: 3.75rem;
+    padding-bottom: 3.75rem;
+    display: grid;
+    grid-auto-flow: row;
+    justify-content: center;
+    align-content: center;
+    justify-items: center;
+    align-items: flex-start;
+    background: hsl(28, 52%, 95%);
+    width: 100vw;
+    grid-template-columns: 1fr;
+    grid-column-gap: 0;
+}
+.d3tapubaq:not(#_):not(#_) {
+    width: 95%;
+    left: 5%;
+    position: relative;
+    margin-left: initial;
+    max-width: 600px;
+}
+.d3tapubar:not(#_):not(#_) {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+.d3tapubas:not(#_):not(#_) {
+    top: 22%;
+    left: 25%;
+    width: 50%;
+    max-width: 300px;
+}
+.d3tapubat:not(#_):not(#_) {
+    font-style: italic;
+    font-weight: 600;
+    border-left: 4px solid hsl(253, 100%, 95%);
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    padding-left: 1.25rem;
+}
+.d3tapubau:not(#_):not(#_) {
+    max-width: 600px;
+    margin-right: 0rem;
+    margin-left: initial;
+}
+.d3tapubaw:not(#_):not(#_) {
+    width: 300px;
+    transform: rotate(3deg);
+}
+.d3tapubax:not(#_):not(#_) {
+    position: absolute;
+    bottom: -5px;
+    left: 23%;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 3px 1px 0 #fff;
+}
+
+
+
+
+
+
 
 /* hover classes */
 .link:hover {color: hsla(248, 100%, 60.4%, 80%);}
