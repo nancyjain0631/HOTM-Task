@@ -258,13 +258,13 @@ html .d3 {
     flex-direction: row;
     justify-content: center;
     justify-items: center;
-    border-radius: 6px;
+    border-radius: 61px !important;
     cursor: pointer;
-    padding: 1.1rem 1rem;
+    padding: 1.1rem 1rem!important;
     width: max-content;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid hsla(0.00,0.00%,100.00%,0%);
+    border: 1px solid hsla(0.00,0.00%,100.00%,0%)!important;
     text-transform: capitalize;
     text-decoration: none;
     font-size: 18px;
@@ -274,7 +274,7 @@ html .d3 {
     font-family: var(--font-inherit,inherit);
     white-space: nowrap;
     transition: all 0.1s ease-out;
-    background-color:hsl(248, 100%, 60.4%);
+    background-color: hsl(248, 100%, 60.4%);
     color: hsla(0.00,0.00%,100.00%,100%);
 }
 .d3tapubn:not(#_):not(#_) {
@@ -790,21 +790,85 @@ section.topic.tfree.d3tapub:not(#_) {
     overflow: hidden;
     --c:hsla(138.00,24.00%,89.00%,100%);
 }
-.kyd29zbu:not(#_):not(#_) {
+.kyd29zbx:not(#_):not(#_) {
     display: block;
     overflow: hidden;
     --c:hsla(25.00,54.00%,88.00%,100%);
 }
-.kyd29zbu:not(#_):not(#_) {
+.kyd29zby:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(138.00,24.00%,89.00%,100%);
+}
+.kyd29zbz:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbaa:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbbb:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(54.00,100.00%,92.00%,100%);
+}
+.kyd29zbcc:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(139.00,25.50%,92.50%,100%);
+}
+section.topic.thtml.d3tapub:not(#_) {
+    --bg: hsl(28, 52%, 95%);
+}
+.kyd29zbdd:not(#_):not(#_) {
     display: block;
     overflow: hidden;
     --c:hsla(25.00,54.00%,88.00%,100%);
 }
-.kyd29zbu:not(#_):not(#_) {
+.kyd29zbee:not(#_):not(#_) {
     display: block;
     overflow: hidden;
     --c:hsla(25.00,54.00%,88.00%,100%);
 }
+.kyd29zbff:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbgg:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbhh:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbii:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbjj:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbz:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+.kyd29zbz:not(#_):not(#_) {
+    display: block;
+    overflow: hidden;
+    --c:hsla(220.33,100.00%,92.67%,100%);
+}
+
 
 section.topic.tjavascript.d3tapub:not(#_) {
     --bg: hsl(138.5, 23.6%, 89.2%);
