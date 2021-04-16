@@ -9,6 +9,9 @@
         line-height: 54px;
         font-size: 48px;
     }
+    .p7g3yfkp:not(#_):not(#_) {
+        min-width: 50px;
+    }
 }
 @media (min-width: 400px){
     section.topic .tiles.d3tapub:not(#_) {
@@ -36,6 +39,11 @@
         --u_lh: 22px;
         line-height: 22px;
         font-size: 20px;
+    }
+}
+@media (min-width: 768px){
+    .n864kebe:not(#_):not(#_) {
+        display: initial;
     }
 }
 
